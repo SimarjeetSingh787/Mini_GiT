@@ -34,7 +34,7 @@ brew install cmake openssl zlib
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/itzsohanrc/minigit.git
+git clone https://github.com/SimarjeetSingh787/Mini_GiT.git
 cd minigit
 ```
 
