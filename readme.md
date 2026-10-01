@@ -4,14 +4,6 @@ A lightweight Git-like version control system built with C++ and CMake. MiniGit 
 
 ---
 
-## ⚡ Quick Installation (Recommended)
-
-Skip building from source! Install the pre-compiled binary directly using the one-line installer:
-
-```bash
-curl -fsSL https://raw.githubusercontent.com/itzsohanrc/minigit/main/install.sh | bash
-```
-
 After installation, verify it:
 
 ```bash
